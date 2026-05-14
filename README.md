@@ -25,34 +25,6 @@ Computacional_Mario/
 ├── README.md
 │
 ├── contenidos/
-│   ├── 00_herramientas/
-│   │   ├── 00_leccion_C_y_CPP/
-│   │   ├── 00_leccion_python/
-│   │   ├── herramientas_debugging/
-│   │   ├── herramientas_maquina_virtual/
-│   │   └── random_numbers/
-│   │
-│   ├── 00_lecciones_main/
-│   │   ├── 00_leccion_C_y_CPP/
-│   │   └── 00_leccion_python/
-│   │
-│   ├── obligatorio1/
-│   │   └── animacion_planetas.py
-│   │
-│   ├── obligatorio2/
-│   │   └── animacion_ising.py
-│   │
-│   └── scripts/
-│       ├── animacion_ising.py
-│       ├── animacion_planetas.py
-│       ├── animacion_schrodinger.py
-│       ├── msimulador_SS.py
-│       ├── curve_data.py
-│       ├── random_data.py
-│       ├── ising_data.dat
-│       ├── schrodinger_data.dat
-│       ├── planetas.gif
-│       └── planetas.mp4
 │
 └── trabajos/
     ├── laboratorio/
@@ -63,33 +35,12 @@ Computacional_Mario/
     │
     └── Scripts/
         ├── Sistema solar/
-        │   ├── simulacion_ss.py
-        │   ├── animacion_ss.py
-        │   └── planets_data.dat
         │
         ├── Ising/
-        │   ├── ising.py
-        │   ├── animacion_ising.py
-        │   ├── ising_magnetizacion.py
-        │   ├── ising_data.dat
-        │   ├── magnetizacion_vs_temperatura.dat
-        │   └── magnetizacion_vs_temperatura.png
         │
         ├── Hopfield/
-        │   ├── SimulacionHp.py
-        │   ├── AnimacionHp.py
-        │   ├── comparacionopthopfield.py
-        │   └── datos.dat
         │
         └── VolShro/
-            ├── Volshro_simulacion.py
-            ├── Volshro_animacion.py
-            ├── datos.dat
-            ├── detectores.dat
-            ├── observables.dat
-            ├── normas.dat
-            ├── nD.dat
-            └── coeficiente_transmision.dat
 ```
 
 De forma general, el repositorio contiene:
